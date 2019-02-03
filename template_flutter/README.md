@@ -16,12 +16,11 @@ flutter-app/
 |- ios
 |- lib
   |- main.dart
-  |- routes.dart
+  |- routes.dart -> Routes of App and import all screens
   |- screens/ 
-  |- util/
-  |- widgets/
-  |- data/
-  |- services/
+  |- util/ -> Business login
+  |- widgets/ -> Widgets common used
+  |- services/ -> handle all network & business logic 
 |- test
 ```
 ## Importante para conectar con Firebase
