@@ -1,0 +1,55 @@
+{
+                    "project_info": {
+                      "project_number": "411833012880",
+                      "firebase_url": "https://logint-dart.firebaseio.com",
+                      "project_id": "logint-dart",
+                      "storage_bucket": "logint-dart.appspot.com"
+                    },
+                    "client": [
+                      {
+                        "client_info": {
+                          "mobilesdk_app_id": "1:411833012880:android:253e1da980d40be4",
+                          "android_client_info": {
+                            "package_name": "com.example.flutterlogindemo"
+                          }
+                        },
+                        "oauth_client": [
+                          {
+                            "client_id": "411833012880-qijibrfp9hsgjdr75fk127226dpki7kr.apps.googleusercontent.com",
+                            "client_type": 1,
+                            "android_info": {
+                              "package_name": "com.example.flutterlogindemo",
+                              "certificate_hash": "057bd6afc9a5e5ee6f1f8ffbce49edebd2c5fef7"
+                            }
+                          },
+                          {
+                            "client_id": "411833012880-155aem15afbioubrppdja8gg8p0ke8hl.apps.googleusercontent.com",
+                            "client_type": 3
+                          }
+                        ],
+                        "api_key": [
+                          {
+                            "current_key": "AIzaSyCbRA1Q0tJlqpS4qnPm1cCYhHdY5unn8vM"
+                          }
+                        ],
+                        "services": {
+                          "analytics_service": {
+                            "status": 1
+                          },
+                          "appinvite_service": {
+                            "status": 2,
+                            "other_platform_oauth_client": [
+                              {
+                                "client_id": "411833012880-155aem15afbioubrppdja8gg8p0ke8hl.apps.googleusercontent.com",
+                                "client_type": 3
+                              }
+                            ]
+                          },
+                          "ads_service": {
+                            "status": 2
+                          }
+                        }
+                      }
+                    ],
+                    "configuration_version": "1"
+                  }
